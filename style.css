@@ -1,0 +1,37 @@
+h2{
+    text-align: center;
+    color:rgb(0, 60, 255);
+
+}
+.tik{
+    /* color:rgba(218, 69, 0, 0.247); */
+    background-color:rgb(203, 209, 148);
+    text-align:left;
+    border: 10px solid dodgerblue;
+    /* border-color: chocolate; */
+    border-left: 10px solid darkorange;
+    margin: 2px;
+    padding: 10px;
+}
+.to{
+    color: rgb(231, 49, 4);
+}
+.ol{
+    background-color:aquamarine;
+    width: 100px;
+    height: 165px;
+}
+.ul{
+    background-color:antiquewhite;
+    width: 100px;
+    height: 120px;
+}
+.hin{
+    color: rgb(231, 96, 0);
+}
+.info{
+    background-color:thistle;
+    width: 200px;
+    height: 300px;
+}
+}
